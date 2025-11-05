@@ -6,14 +6,14 @@ const Connect = () => {
     {
       name: 'LinkedIn',
       icon: <FaLinkedin className="text-2xl" />,
-      url: 'https://linkedin.com/in/manannarwal', // Replace with your LinkedIn
+      url: 'https://linkedin.com/in/golden-path-667122390/', // Replace with your LinkedIn
       color: 'from-blue-600 to-blue-700',
       hoverColor: 'hover:from-blue-500 hover:to-blue-600'
     },
     {
       name: 'GitHub',
       icon: <FaGithub className="text-2xl" />,
-      url: 'https://github.com/manannarwal', // Replace with your GitHub
+      url: 'https://github.com/goldenpath0912', // Replace with your GitHub
       color: 'from-gray-700 to-gray-800',
       hoverColor: 'hover:from-gray-600 hover:to-gray-700'
     }
@@ -82,7 +82,7 @@ const Connect = () => {
           <p className="text-gray-300 mb-2 leading-relaxed max-md:text-sm max-md:mb-4">
             Found a bug? Have a feature request? Or just want to say hi? 
             I'd love to hear from you! Your input helps make MovFlix better for everyone.
-            Feel free to drop me a mail at <a href="mailto:manan.iitm@gmail.com" className="text-blue-400 hover:text-blue-300 underline">narwalmanan10@gmail.com</a>.
+            Feel free to drop me a mail at <a href="goldenpath0912@gmail.com" className="text-blue-400 hover:text-blue-300 underline">goldenpath0912@gmail.com</a>.
           </p>
         </div>
 

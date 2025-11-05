@@ -21,7 +21,7 @@ Follow these steps to set up **MovFlix** locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/manannarwal/movflix.git
+git clone https://github.com/goldenpath0912/movflix.git
 cd movflix
 ````
 
